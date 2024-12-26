@@ -1,0 +1,15 @@
+pandas
+numpy
+langchain
+python-dotenv
+langchain_community
+langchain_core
+langchain-groq
+transformers
+streamlit
+pypdf
+validators==0.28.1
+youtube_transcript_api
+unstructured
+pytube
+google-generativeai
